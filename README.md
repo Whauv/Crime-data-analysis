@@ -2,7 +2,7 @@
 
 ## Team 💼
 
-We are a team of three consisting of,
+We are a team of three consisting of,<br/> 
 Pranav Vinayak Chopdekar <br/> 
 Nikhil Jaswaraj Karkera <br/> 
 Mahendra Varmah Vaddi <br/> 
